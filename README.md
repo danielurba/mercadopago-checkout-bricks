@@ -1,1 +1,1 @@
-# pagamento-mercado-pago
+# Mercado Pago Checkout Bricks - PHP - Wordpress
